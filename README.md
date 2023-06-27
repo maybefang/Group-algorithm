@@ -5,3 +5,4 @@ STR：
 https://github.com/RAIVNLab/STR
 Greg：
 https://github.com/mingsun-tse/regularization-pruning
+https://github.com/MingSun-Tse/Regularization-Pruning
